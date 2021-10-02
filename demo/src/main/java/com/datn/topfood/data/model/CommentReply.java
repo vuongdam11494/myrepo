@@ -1,6 +1,7 @@
 package com.datn.topfood.data.model;
-
 import java.sql.Timestamp;
+import java.sql.Timestamp;
+
 
 import javax.persistence.Entity;
 import javax.persistence.JoinColumn;
